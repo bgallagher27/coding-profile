@@ -76,6 +76,53 @@ h1 {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
+div.label-hang {
+    position: absolute;
+    top: 415px;
+    left: 225px;
+    width: 219px;
+    height: 15px;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5;
+}
+
+div.label-rp {
+    position: absolute;
+    top: 415px;
+    right: 542px;
+    width: 219px;
+    height: 15px;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5;
+}
+
+img.hangman {
+    margin: 30px;
+    position: relative;
+}
+
+img.rp-game {
+    margin: 30px;
+}
+
+img.trivia {
+    margin: 30px;
+}
+
+img.rutgers-info {
+    margin: 30px;
+}
+
+img.rock-p-s {
+    margin: 30px;
+}
+
 .footer {
     flex-shrink: 0;
     background-color: #666666;
