@@ -102,6 +102,45 @@ div.label-rp {
     background-color: #4aaaa5;
 }
 
+div.label-trivia {
+    position: absolute;
+    top: 675px;
+    left: 225px;
+    width: 219px;
+    height: 15px;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5;
+}
+
+div.label-rutgers {
+    position: absolute;
+    top: 675px;
+    right: 542px;
+    width: 219px;
+    height: 15px;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5;
+}
+
+div.label-rock {
+    position: absolute;
+    top: 933px;
+    left: 225px;
+    width: 220px;
+    height: 15px;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: #4aaaa5;
+}
+
 img.hangman {
     margin: 30px;
     position: relative;
